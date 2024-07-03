@@ -26,7 +26,11 @@ Implementation Details
 Navigation Setup:
 The navigation system is set up using @react-navigation/native, @react-navigation/stack, and @react-navigation/bottom-tabs. The app includes a bottom tab navigator with two tabs: Home and Cart. Each tab utilizes a stack navigator to manage screens within the tab.
 
+
 Data Storage with AsyncStorage:
 Cart data is efficiently stored using AsyncStorage. Upon app launch, the cart data is retrieved from AsyncStorage and displayed. Users can easily add or remove items from the cart, with all changes automatically saved to AsyncStorage.
 
 
+<img width="630" alt="Screenshot 2024-07-03 at 10 58 15 AM" src="https://github.com/jrcontrola7/rn-assignment6-11339114/assets/157807525/21b16360-34f3-4a15-adc6-42474681de3a">
+
+<img width="575" alt="Screenshot 2024-07-03 at 11 20 06 AM" src="https://github.com/jrcontrola7/rn-assignment6-11339114/assets/157807525/f921398f-e7ec-4f1f-a127-821c912d7a95">
